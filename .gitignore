@@ -1,0 +1,3 @@
+#Ignore le fichier .env et le dossier env/
+.env
+env/
