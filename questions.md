@@ -1,0 +1,5 @@
+- part_I_1_a : Oui 
+- part_I_1_b : Oui 
+- part_I_2_a : 
+- part_I_2_b : 
+- part_I_2_c : 
