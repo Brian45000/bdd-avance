@@ -4,3 +4,5 @@
 - part_I_2_b : Oui
 - part_I_2_c : Oui
 - part_I_3_a : Oui
+- part_I_3_b : Oui 
+- part_I_3_b_view : Oui
