@@ -1,3 +1,4 @@
+-- SQLBook: Code
 -- Suppression des tables pour reexecution du script
 DROP TABLE IF EXISTS notebooks;
 DROP TABLE IF EXISTS tp ;
