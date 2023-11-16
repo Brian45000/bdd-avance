@@ -1,8 +1,9 @@
 -- SQLBook: Code
 -- Suppression des tables si existantes
-DROP TABLE IF EXISTS user_table ;
-DROP TABLE IF EXISTS user_email_verification_table;
 DROP TABLE IF EXISTS session_table;
+DROP TABLE IF EXISTS user_email_verification_table;
+DROP TABLE IF EXISTS user_table ;
+
 
 -- Création de la table 'user_table'
 CREATE TABLE user_table (
