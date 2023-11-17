@@ -10,5 +10,8 @@
 - part_II_1 : Oui 
 - part_II_2 : Oui
 - part_III_1 : Oui
-- part_III_2 : Oui
+- part_III_2 : Oui ( rajouter shuffle pour username )
 - part_III_3 : Oui 
+- part_IV_1 :
+- part_IV_2 : 
+- part_IV_3 :
