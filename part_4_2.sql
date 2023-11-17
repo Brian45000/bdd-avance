@@ -36,11 +36,11 @@ INSERT INTO user_table (firstname, lastname, email, username, password) VALUES
 ('Eva', 'Williams', 'eva.williams15@example.com', 'evaw1657825', 'secret123');
 
 --MAJ de nos utilisateurs
-UPDATE user_table SET username = username || '_update' WHERE username = 'johndoe54852';
-UPDATE user_table SET username = username || '_update' WHERE username = 'janesmith654985';
-UPDATE user_table SET username = username || '_update' WHERE username = 'alice12345687';
-UPDATE user_table SET username = username || '_update' WHERE username = 'bobm654789531684';
-UPDATE user_table SET username = username || '_update' WHERE username = 'evaw1657825';
+UPDATE user_table SET username = username || '_u' WHERE username = 'johndoe54852';
+UPDATE user_table SET username = username || '_u' WHERE username = 'janesmith654985';
+UPDATE user_table SET username = username || '_u' WHERE username = 'alice12345687';
+UPDATE user_table SET username = username || '_u' WHERE username = 'bobm654789531684';
+UPDATE user_table SET username = username || '_u' WHERE username = 'evaw1657825';
 
 
 SELECT * FROM username_history;

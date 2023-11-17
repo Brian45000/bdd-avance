@@ -14,4 +14,4 @@
 - part_III_3 : Oui 
 - part_IV_1 : Oui
 - part_IV_2 : Oui
-- part_IV_3 : Pas encore mais bientôt ! 
+- part_IV_3 : Oui
