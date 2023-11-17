@@ -9,3 +9,6 @@
 - part_I_3_c : Oui
 - part_II_1 : Oui 
 - part_II_2 : Oui
+- part_III_1 : Oui
+- part_III_2 : Oui
+- part_III_3 : Oui 
