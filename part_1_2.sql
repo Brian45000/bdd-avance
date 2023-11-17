@@ -1,3 +1,4 @@
+-- SQLBook: Code
 -- Insertion de 100 utilisateurs
 INSERT INTO user_table (firstname, lastname, email, username, password, created_at)
 VALUES

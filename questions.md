@@ -7,3 +7,5 @@
 - part_I_3_b : Oui 
 - part_I_3_b_view : Oui
 - part_I_3_c : Oui
+- part_II_1 : Oui 
+- part_II_2 : Oui
