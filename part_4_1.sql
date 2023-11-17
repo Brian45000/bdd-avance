@@ -1,5 +1,6 @@
 DROP TABLE IF EXISTS session_count CASCADE;
 
+--Création de la table session_count
 CREATE TABLE session_count (
     session_count_id SERIAL PRIMARY KEY,
     user_id INT,
@@ -9,6 +10,7 @@ CREATE TABLE session_count (
 
 DROP FUNCTION IF EXISTS update_session_count CASCADE;
 
+-- Création de la function update_session_count
 CREATE OR REPLACE FUNCTION update_session_count()
 RETURNS TRIGGER AS $$
 BEGIN
@@ -26,6 +28,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+-- Création du trigger
 CREATE TRIGGER trigger_update_session_count
 AFTER INSERT ON session_table
 FOR EACH ROW
